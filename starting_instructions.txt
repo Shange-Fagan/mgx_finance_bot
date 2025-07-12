@@ -1,0 +1,22 @@
+To run the application from your computer after downloading the /workspace/shadcn-ui folder, follow these steps:
+
+Open your terminal or command prompt
+
+Navigate to the downloaded folder:
+
+plain
+cd path/to/downloaded/shadcn-ui
+Install the dependencies:
+
+plain
+pnpm install
+(If you don’t have pnpm installed, you can install it with npm install -g pnpm or use npm instead: npm install)
+
+Start the development server:
+
+plain
+pnpm run dev
+Open your web browser and go to the URL shown in the terminal (typically http://localhost:5173 or http://localhost:5174)
+
+That’s it! The application should now be running locally on your machine with all the fixes implemented.
+
